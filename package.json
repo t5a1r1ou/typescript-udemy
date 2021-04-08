@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/t5a1r1ou/typescript-udemy#readme",
   "devDependencies": {
+    "ts-node": "^8.6.2",
     "typescript": "^3.7.5"
   }
 }
